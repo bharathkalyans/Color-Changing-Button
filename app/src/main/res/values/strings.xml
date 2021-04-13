@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="change_color">Change Colors</string>
+    <string name="background_color">CHANGE BACKGROUND COLOR</string>
+    <string name="say_hello">Say Hello</string>
+</resources>
